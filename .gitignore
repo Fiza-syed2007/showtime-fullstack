@@ -1,0 +1,35 @@
+# Python environments
+venv/
+.venv/
+mnist-env/
+backend/venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+backend/.env
+frontend/.env
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Node
+node_modules/
+frontend/node_modules/
+dist/
+frontend/dist/
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Unrelated project
+AIML-Recruitment-2026-Fiza/
